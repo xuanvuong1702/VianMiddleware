@@ -1,0 +1,11 @@
+C:\Users\think\Downloads\Code\ChainOfResponsibilityPattern\Cap.Middleware\bin\Debug\net5.0\Cap.Middleware.deps.json
+C:\Users\think\Downloads\Code\ChainOfResponsibilityPattern\Cap.Middleware\bin\Debug\net5.0\Cap.Middleware.dll
+C:\Users\think\Downloads\Code\ChainOfResponsibilityPattern\Cap.Middleware\bin\Debug\net5.0\ref\Cap.Middleware.dll
+C:\Users\think\Downloads\Code\ChainOfResponsibilityPattern\Cap.Middleware\bin\Debug\net5.0\Cap.Middleware.pdb
+C:\Users\think\Downloads\Code\ChainOfResponsibilityPattern\Cap.Middleware\obj\Debug\net5.0\Cap.Middleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\think\Downloads\Code\ChainOfResponsibilityPattern\Cap.Middleware\obj\Debug\net5.0\Cap.Middleware.AssemblyInfoInputs.cache
+C:\Users\think\Downloads\Code\ChainOfResponsibilityPattern\Cap.Middleware\obj\Debug\net5.0\Cap.Middleware.AssemblyInfo.cs
+C:\Users\think\Downloads\Code\ChainOfResponsibilityPattern\Cap.Middleware\obj\Debug\net5.0\Cap.Middleware.csproj.CoreCompileInputs.cache
+C:\Users\think\Downloads\Code\ChainOfResponsibilityPattern\Cap.Middleware\obj\Debug\net5.0\Cap.Middleware.dll
+C:\Users\think\Downloads\Code\ChainOfResponsibilityPattern\Cap.Middleware\obj\Debug\net5.0\ref\Cap.Middleware.dll
+C:\Users\think\Downloads\Code\ChainOfResponsibilityPattern\Cap.Middleware\obj\Debug\net5.0\Cap.Middleware.pdb

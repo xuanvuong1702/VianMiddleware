@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Cap.Middleware/1.0.0": {
+        "runtime": {
+          "Cap.Middleware.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cap.Middleware/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

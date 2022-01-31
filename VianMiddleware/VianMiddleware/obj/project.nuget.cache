@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1PUeTn9jbZgNaOb2sz17h5A3pUD3d19+AfHqmHJdjnlcdV42F1QuGFMJAiYf4KjvbAXTXoOyLa0SldWgIbi76w==",
+  "success": true,
+  "projectFilePath": "X:\\learn\\Middleware\\Middlewares\\VianMiddleware\\VianMiddleware\\VianMiddleware.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vuong\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

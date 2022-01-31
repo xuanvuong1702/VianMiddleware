@@ -1,0 +1,422 @@
+{
+  "format": 1,
+  "restore": {
+    "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap.PostgreSQL.Rabbit.Middleware\\Cap.PostgreSQL.Rabbit.Middleware.csproj": {}
+  },
+  "projects": {
+    "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap.PostgreSQL.Rabbit.Middleware\\Cap.PostgreSQL.Rabbit.Middleware.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap.PostgreSQL.Rabbit.Middleware\\Cap.PostgreSQL.Rabbit.Middleware.csproj",
+        "projectName": "Cap.PostgreSQL.Rabbit.Middleware",
+        "projectPath": "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap.PostgreSQL.Rabbit.Middleware\\Cap.PostgreSQL.Rabbit.Middleware.csproj",
+        "packagesPath": "C:\\Users\\vuong\\.nuget\\packages\\",
+        "outputPath": "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap.PostgreSQL.Rabbit.Middleware\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap\\src\\DotNetCore.CAP.Dashboard\\DotNetCore.CAP.Dashboard.csproj": {
+                "projectPath": "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap\\src\\DotNetCore.CAP.Dashboard\\DotNetCore.CAP.Dashboard.csproj"
+              },
+              "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap\\src\\DotNetCore.CAP.PostgreSql\\DotNetCore.CAP.PostgreSql.csproj": {
+                "projectPath": "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap\\src\\DotNetCore.CAP.PostgreSql\\DotNetCore.CAP.PostgreSql.csproj"
+              },
+              "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap\\src\\DotNetCore.CAP.RabbitMQ\\DotNetCore.CAP.RabbitMQ.csproj": {
+                "projectPath": "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap\\src\\DotNetCore.CAP.RabbitMQ\\DotNetCore.CAP.RabbitMQ.csproj"
+              },
+              "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap\\src\\DotNetCore.CAP\\DotNetCore.CAP.csproj": {
+                "projectPath": "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap\\src\\DotNetCore.CAP\\DotNetCore.CAP.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.11, 5.0.11]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap\\src\\DotNetCore.CAP.Dashboard\\DotNetCore.CAP.Dashboard.csproj": {
+      "version": "5.1.0",
+      "restore": {
+        "projectUniqueName": "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap\\src\\DotNetCore.CAP.Dashboard\\DotNetCore.CAP.Dashboard.csproj",
+        "projectName": "DotNetCore.CAP.Dashboard",
+        "projectPath": "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap\\src\\DotNetCore.CAP.Dashboard\\DotNetCore.CAP.Dashboard.csproj",
+        "packagesPath": "C:\\Users\\vuong\\.nuget\\packages\\",
+        "outputPath": "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap\\src\\DotNetCore.CAP.Dashboard\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap\\src\\DotNetCore.CAP\\DotNetCore.CAP.csproj": {
+                "projectPath": "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap\\src\\DotNetCore.CAP\\DotNetCore.CAP.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Consul": {
+              "target": "Package",
+              "version": "[1.6.1.1, )"
+            },
+            "JetBrains.Annotations": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2020.3.0, )"
+            },
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap\\src\\DotNetCore.CAP.PostgreSql\\DotNetCore.CAP.PostgreSql.csproj": {
+      "version": "5.1.0",
+      "restore": {
+        "projectUniqueName": "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap\\src\\DotNetCore.CAP.PostgreSql\\DotNetCore.CAP.PostgreSql.csproj",
+        "projectName": "DotNetCore.CAP.PostgreSql",
+        "projectPath": "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap\\src\\DotNetCore.CAP.PostgreSql\\DotNetCore.CAP.PostgreSql.csproj",
+        "packagesPath": "C:\\Users\\vuong\\.nuget\\packages\\",
+        "outputPath": "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap\\src\\DotNetCore.CAP.PostgreSql\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap\\src\\DotNetCore.CAP\\DotNetCore.CAP.csproj": {
+                "projectPath": "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap\\src\\DotNetCore.CAP\\DotNetCore.CAP.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "JetBrains.Annotations": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2020.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap\\src\\DotNetCore.CAP.RabbitMQ\\DotNetCore.CAP.RabbitMQ.csproj": {
+      "version": "5.1.0",
+      "restore": {
+        "projectUniqueName": "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap\\src\\DotNetCore.CAP.RabbitMQ\\DotNetCore.CAP.RabbitMQ.csproj",
+        "projectName": "DotNetCore.CAP.RabbitMQ",
+        "projectPath": "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap\\src\\DotNetCore.CAP.RabbitMQ\\DotNetCore.CAP.RabbitMQ.csproj",
+        "packagesPath": "C:\\Users\\vuong\\.nuget\\packages\\",
+        "outputPath": "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap\\src\\DotNetCore.CAP.RabbitMQ\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap\\src\\DotNetCore.CAP\\DotNetCore.CAP.csproj": {
+                "projectPath": "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap\\src\\DotNetCore.CAP\\DotNetCore.CAP.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "JetBrains.Annotations": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2020.3.0, )"
+            },
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap\\src\\DotNetCore.CAP\\DotNetCore.CAP.csproj": {
+      "version": "5.1.0",
+      "restore": {
+        "projectUniqueName": "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap\\src\\DotNetCore.CAP\\DotNetCore.CAP.csproj",
+        "projectName": "DotNetCore.CAP",
+        "projectPath": "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap\\src\\DotNetCore.CAP\\DotNetCore.CAP.csproj",
+        "packagesPath": "C:\\Users\\vuong\\.nuget\\packages\\",
+        "outputPath": "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap\\src\\DotNetCore.CAP\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "JetBrains.Annotations": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2020.3.0, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "System.Diagnostics.DiagnosticSource": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "System.Threading.Channels": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Cap.Middleware/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Cap.Middleware.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cap.Middleware.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cap.Middleware/1.0.0": {
+      "type": "project",
+      "path": "../Cap.Middleware/Cap.Middleware.csproj",
+      "msbuildProject": "../Cap.Middleware/Cap.Middleware.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Cap.Middleware >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\vuong\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\ChainOfResponsibilityPattern\\ChainOfResponsibilityPattern.csproj",
+      "projectName": "ChainOfResponsibilityPattern",
+      "projectPath": "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\ChainOfResponsibilityPattern\\ChainOfResponsibilityPattern.csproj",
+      "packagesPath": "C:\\Users\\vuong\\.nuget\\packages\\",
+      "outputPath": "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\ChainOfResponsibilityPattern\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\vuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap.Middleware\\Cap.Middleware.csproj": {
+              "projectPath": "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\Cap.Middleware\\Cap.Middleware.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.11, 5.0.11]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

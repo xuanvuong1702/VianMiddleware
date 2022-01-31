@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KYv1ws48EFrmmAQiFIZyJTGdiaG3mbEGFJe91Qi9IU/MSHetKTJeB1pMpXl57emFbAvXNaJUWYswaoBKXQTLdA==",
+  "success": true,
+  "projectFilePath": "X:\\learn\\Middleware\\Middlewares\\Build-for-cap\\ChainOfResponsibilityPattern\\ChainOfResponsibilityPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vuong\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.11\\microsoft.netcore.app.host.win-x64.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

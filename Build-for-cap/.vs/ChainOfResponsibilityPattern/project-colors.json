@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6d7a46d8-a055-451f-baa8-ba06b1d95944": {
+      "ProjectGuid": "6d7a46d8-a055-451f-baa8-ba06b1d95944",
+      "DisplayName": "ChainOfResponsibilityPattern",
+      "ColorIndex": 0
+    },
+    "9eac41a0-1619-4492-b06a-733fc7cbe687": {
+      "ProjectGuid": "9eac41a0-1619-4492-b06a-733fc7cbe687",
+      "DisplayName": "Cap.Middleware",
+      "ColorIndex": 1
+    },
+    "f981cc4d-9bd6-463e-8f62-56fd295692d8": {
+      "ProjectGuid": "f981cc4d-9bd6-463e-8f62-56fd295692d8",
+      "DisplayName": "DotNetCore.CAP",
+      "ColorIndex": 2
+    },
+    "94ce591f-6f1a-4c78-9663-aed12493ad09": {
+      "ProjectGuid": "94ce591f-6f1a-4c78-9663-aed12493ad09",
+      "DisplayName": "Cap.PostgreSQL.Rabbit.Middleware",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

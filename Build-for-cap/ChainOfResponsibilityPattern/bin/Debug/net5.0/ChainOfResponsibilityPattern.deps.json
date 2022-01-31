@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ChainOfResponsibilityPattern/1.0.0": {
+        "dependencies": {
+          "Cap.Middleware": "1.0.0"
+        },
+        "runtime": {
+          "ChainOfResponsibilityPattern.dll": {}
+        }
+      },
+      "Cap.Middleware/1.0.0": {
+        "runtime": {
+          "Cap.Middleware.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChainOfResponsibilityPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cap.Middleware/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
