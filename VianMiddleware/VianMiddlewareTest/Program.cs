@@ -17,7 +17,10 @@ namespace VianMiddlewareTest
             //setup our DI
             var serviceProvider = new ServiceCollection()
                 .AddScoped<ITaskContext, TaskContext>()
-                .AddMiddleware(option => { })
+
+                .AddMiddleware(option => {
+                    option.Name = "";
+                })
                 .AddCustomTaskResultHandler<CustomTaskHandler>()
                 .BuildServiceProvider();
 
@@ -28,9 +31,8 @@ namespace VianMiddlewareTest
 
             using (var scope = serviceProvider.CreateScope())
             {
-                var context = serviceProvider.GetServices<ITaskContext>();
-
                 await builder.RunPipeline();
+                var context = serviceProvider.GetServices<ITaskContext>();
             }
 
         }

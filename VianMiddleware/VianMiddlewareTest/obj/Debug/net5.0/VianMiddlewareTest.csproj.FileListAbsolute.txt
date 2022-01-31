@@ -38,3 +38,4 @@ X:\learn\Middleware\Middlewares\VianMiddleware\VianMiddlewareTest\obj\Debug\net5
 X:\learn\Middleware\Middlewares\VianMiddleware\VianMiddlewareTest\obj\Debug\net5.0\ref\VianMiddlewareTest.dll
 X:\learn\Middleware\Middlewares\VianMiddleware\VianMiddlewareTest\obj\Debug\net5.0\VianMiddlewareTest.pdb
 X:\learn\Middleware\Middlewares\VianMiddleware\VianMiddlewareTest\obj\Debug\net5.0\VianMiddlewareTest.genruntimeconfig.cache
+X:\learn\Middleware\Middlewares\VianMiddleware\VianMiddlewareTest\obj\Debug\net5.0\VianMiddlewareTest.csproj.CopyComplete

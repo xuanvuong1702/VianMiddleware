@@ -8,6 +8,7 @@ namespace VianMiddleware.Core
     {
         public string Message { get; set; }
 
+
         public IDictionary<string, string> Headers {  get; set; }
 
         ITaskContext Clone();

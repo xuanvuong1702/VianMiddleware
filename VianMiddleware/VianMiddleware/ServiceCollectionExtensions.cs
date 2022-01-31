@@ -18,7 +18,8 @@ namespace VianMiddleware
         }
 
         public static IServiceCollection AddCustomTaskResultHandler<TTaskResultHandler>(this IServiceCollection services)
-            where TTaskResultHandler : class, ITaskResultHandler, new()
+            where TTaskResultHandler : class, ITaskResultHandler
+            
         {
             services.AddSingleton<ITaskResultHandler, TTaskResultHandler>();
 
