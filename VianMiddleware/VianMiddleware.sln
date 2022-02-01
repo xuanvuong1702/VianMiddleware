@@ -3,9 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31808.319
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VianMiddleware", "VianMiddleware\VianMiddleware.csproj", "{F8033B3F-751F-4F44-8A1C-32C562C39256}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VianMiddleware", "VianMiddleware\VianMiddleware.csproj", "{F8033B3F-751F-4F44-8A1C-32C562C39256}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VianMiddlewareTest", "VianMiddlewareTest\VianMiddlewareTest.csproj", "{C49FCE27-1254-4FBF-8A23-068358812F45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VianMiddlewareTest", "VianMiddlewareTest\VianMiddlewareTest.csproj", "{C49FCE27-1254-4FBF-8A23-068358812F45}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestWithCap", "TestWithCap", "{1258AB16-3570-48AD-80CE-3861859E8E1F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetCore.CAP", "Lib\CAP\src\DotNetCore.CAP\DotNetCore.CAP.csproj", "{062792AF-74F4-442D-AEB1-0AEF229088F9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetCore.CAP.PostgreSql", "Lib\CAP\src\DotNetCore.CAP.PostgreSql\DotNetCore.CAP.PostgreSql.csproj", "{E8812193-7C27-4BFB-A31E-D37D34135ED9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetCore.CAP.RabbitMQ", "Lib\CAP\src\DotNetCore.CAP.RabbitMQ\DotNetCore.CAP.RabbitMQ.csproj", "{E14B84A0-36F2-4E65-A173-87E63285DA25}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2022", "2022", "{DB93C294-A31D-4A8E-94AE-3D0250AC3AD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello2022", "Hello2022\Hello2022.csproj", "{E45C2E3E-7B32-434F-8E0B-0FEF9C9C741F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,9 +33,31 @@ Global
 		{C49FCE27-1254-4FBF-8A23-068358812F45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C49FCE27-1254-4FBF-8A23-068358812F45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C49FCE27-1254-4FBF-8A23-068358812F45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{062792AF-74F4-442D-AEB1-0AEF229088F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{062792AF-74F4-442D-AEB1-0AEF229088F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{062792AF-74F4-442D-AEB1-0AEF229088F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{062792AF-74F4-442D-AEB1-0AEF229088F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8812193-7C27-4BFB-A31E-D37D34135ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8812193-7C27-4BFB-A31E-D37D34135ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8812193-7C27-4BFB-A31E-D37D34135ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8812193-7C27-4BFB-A31E-D37D34135ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E14B84A0-36F2-4E65-A173-87E63285DA25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E14B84A0-36F2-4E65-A173-87E63285DA25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E14B84A0-36F2-4E65-A173-87E63285DA25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E14B84A0-36F2-4E65-A173-87E63285DA25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E45C2E3E-7B32-434F-8E0B-0FEF9C9C741F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E45C2E3E-7B32-434F-8E0B-0FEF9C9C741F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E45C2E3E-7B32-434F-8E0B-0FEF9C9C741F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E45C2E3E-7B32-434F-8E0B-0FEF9C9C741F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{062792AF-74F4-442D-AEB1-0AEF229088F9} = {1258AB16-3570-48AD-80CE-3861859E8E1F}
+		{E8812193-7C27-4BFB-A31E-D37D34135ED9} = {1258AB16-3570-48AD-80CE-3861859E8E1F}
+		{E14B84A0-36F2-4E65-A173-87E63285DA25} = {1258AB16-3570-48AD-80CE-3861859E8E1F}
+		{E45C2E3E-7B32-434F-8E0B-0FEF9C9C741F} = {DB93C294-A31D-4A8E-94AE-3D0250AC3AD5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C1E1CA45-ECCA-49F9-ADCF-D7A8CBCEEDA7}

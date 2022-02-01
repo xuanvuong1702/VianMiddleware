@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7AKiZEt3M5nb91mUPSg9R/jc9OheG2/Wt4ha5qnQ0Bf3yuSG0xue3KWD3TPWLcb8V2YGo0741BmJzzGIXLmyPA==",
+  "success": true,
+  "projectFilePath": "X:\\learn\\Middleware\\Middlewares\\VianMiddleware\\Hello2022\\Hello2022.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vuong\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.11\\microsoft.netcore.app.host.win-x64.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

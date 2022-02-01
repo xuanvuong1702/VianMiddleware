@@ -1,0 +1,16 @@
+X:\learn\Middleware\Middlewares\VianMiddleware\Hello2022\bin\Debug\net5.0\Hello2022.exe
+X:\learn\Middleware\Middlewares\VianMiddleware\Hello2022\bin\Debug\net5.0\Hello2022.deps.json
+X:\learn\Middleware\Middlewares\VianMiddleware\Hello2022\bin\Debug\net5.0\Hello2022.runtimeconfig.json
+X:\learn\Middleware\Middlewares\VianMiddleware\Hello2022\bin\Debug\net5.0\Hello2022.runtimeconfig.dev.json
+X:\learn\Middleware\Middlewares\VianMiddleware\Hello2022\bin\Debug\net5.0\Hello2022.dll
+X:\learn\Middleware\Middlewares\VianMiddleware\Hello2022\bin\Debug\net5.0\ref\Hello2022.dll
+X:\learn\Middleware\Middlewares\VianMiddleware\Hello2022\bin\Debug\net5.0\Hello2022.pdb
+X:\learn\Middleware\Middlewares\VianMiddleware\Hello2022\obj\Debug\net5.0\Hello2022.csproj.AssemblyReference.cache
+X:\learn\Middleware\Middlewares\VianMiddleware\Hello2022\obj\Debug\net5.0\Hello2022.GeneratedMSBuildEditorConfig.editorconfig
+X:\learn\Middleware\Middlewares\VianMiddleware\Hello2022\obj\Debug\net5.0\Hello2022.AssemblyInfoInputs.cache
+X:\learn\Middleware\Middlewares\VianMiddleware\Hello2022\obj\Debug\net5.0\Hello2022.AssemblyInfo.cs
+X:\learn\Middleware\Middlewares\VianMiddleware\Hello2022\obj\Debug\net5.0\Hello2022.csproj.CoreCompileInputs.cache
+X:\learn\Middleware\Middlewares\VianMiddleware\Hello2022\obj\Debug\net5.0\Hello2022.dll
+X:\learn\Middleware\Middlewares\VianMiddleware\Hello2022\obj\Debug\net5.0\ref\Hello2022.dll
+X:\learn\Middleware\Middlewares\VianMiddleware\Hello2022\obj\Debug\net5.0\Hello2022.pdb
+X:\learn\Middleware\Middlewares\VianMiddleware\Hello2022\obj\Debug\net5.0\Hello2022.genruntimeconfig.cache
